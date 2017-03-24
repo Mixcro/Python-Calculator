@@ -1,2 +1,2 @@
 # Python-Calculator
- A calculator based on python 3
+ A CUI calculator based on python 3
